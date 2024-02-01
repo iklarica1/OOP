@@ -1,0 +1,10 @@
+Bodovi: 55Igrač: Test
+Bodovi: 7Igrač: Test
+Bodovi: -1Igrač: Nepoznat
+Bodovi: -4Igrač: Nepoznat
+Bodovi: 51Igrač: Nepoznat
+Bodovi: 11Igrač: Ivana
+POBJEDA!! Bodovi: 62Igrač: Nepoznat
+Bodovi: 45Igrač: Ivana
+Bodovi: -1Igrač: Nepoznat
+Bodovi: 34Igrač: Ivana

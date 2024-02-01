@@ -1,0 +1,55 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Izbornik.resources
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Gameovercs.resources
+C:\Users\Izabela Rašin\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Okruzenje.resources
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Izbornik.resources
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Okruzenje.resources
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Jure\Downloads\Cura 1 projekt\Izabela Rasin-igra (3)\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.GameOver.resources
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\bin\Debug\OTTER.xml
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\bin\Debug\OTTER.exe
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\bin\Debug\OTTER.pdb
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\obj\x86\Debug\OTTER.GameOver.resources
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\obj\x86\Debug\OTTER.Izbornik.resources
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\obj\x86\Debug\OTTER.Okruzenje.resources
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\38599\Dropbox\My PC (LAPTOP-1612HDKC)\Downloads\OTTER (3)\OTTER\obj\x86\Debug\OTTER.pdb
